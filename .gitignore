@@ -1,2 +1,3 @@
-EvidenciasDelDesarrolo/.png
-EvidenciasDelDesarrolo/Manual.txt
+*.png.*
+Manual.txt
+ConfiguracionIDE/
